@@ -1,2 +1,3 @@
-# test
-test repo for EC 510
+#My first test repo
+
+Hello, world!
